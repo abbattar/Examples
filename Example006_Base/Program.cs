@@ -2,7 +2,7 @@
 int b = 2;
 int c = 6;
 int d = 8;
-int e =4;
+int e = 4;
 
 int max = a;
 if (a > max) max = a;
